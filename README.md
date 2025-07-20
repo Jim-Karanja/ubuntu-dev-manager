@@ -62,7 +62,7 @@ sudo apt install python3-pyqt5 python3-pyqt5.qtwidgets
 
 ```bash
 # Clone or download the project
-git clone https://github.com/canonical/ubuntu-dev-manager.git
+https://github.com/Jim-Karanja/ubuntu-dev-manager.git
 cd ubuntu-dev-manager
 
 # Create virtual environment
