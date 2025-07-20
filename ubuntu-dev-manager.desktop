@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Ubuntu Dev Environment Manager
+Comment=Manage isolated development environments with Multipass/LXD
+Exec=/home/jim12hihand/ubuntu-dev-manager/run.sh
+Icon=applications-development
+Terminal=false
+Categories=Development;IDE;
+Keywords=development;environment;multipass;lxd;containers;vm;ubuntu;canonical;
+StartupNotify=true
+StartupWMClass=ubuntu-dev-manager
